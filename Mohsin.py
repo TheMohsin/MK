@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To Mansoor Khan
+#The Credit For This Code Goes To Mohsin Khan
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -52,7 +52,7 @@ def jalan(z):
 ##### LOGO #####
 logo = 
 
-\033[1;97m█▀ █▄█ █▀▀ █▀█
+\033[1;92m█▀ █▄█ █▀▀ █▀█
 \033[1;97m▄█ ░█░ █▄▄ █▄█ 7.8.6
 \033[1;97m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;92m๑۩۩๑\033[1;97m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 \033[1;93m██ 20% *___*
